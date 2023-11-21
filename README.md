@@ -31,30 +31,39 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/BFPnmXb.png" height="80%" width="80%"/>
 </p>
 <p>
 Configure Roles<br>
 Admin Panel -> Agents -> Roles<br>
-Supreme Admin<br><br>
+Add New Role>Check Every Box>Under Each tab: Tickets, Tasks, Knowledgebase
+Create Supreme Admin<br><br>
+  
+<p>
+<img src="https://i.imgur.com/t9gg0LJ.png" height="80%" width="80%"/>
+</p>
 Configure Departments<br>
 Admin Panel -> Agents -> Departments<br>
-System Administrators<br><br>
+Create New Department> Name it System Administrators<br><br>
+
+<p>
+<img src="https://i.imgur.com/qoSxurp.png" height="80%" width="80%"/>
+</p>
 Configure Teams<br>
 Admin Panel -> Agents -> Teams<br>
-Level I Support<br>
-Level II Support<br>
+Level I Support is by default already there.<br>
+Create a team named: Level II Support<br>
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/jnLNIzO.png" height="80%" width="80%"/>
 </p>
 <p>
 Allow anyone to create tickets<br>
 -Admin Panel -> Settings -> User Settings<br>
--Registration Required: Require registration and login to create tickets 
+-Make sure this is unchecked -> Registration Required: Require registration and login to create tickets 
 
 <br />
 
