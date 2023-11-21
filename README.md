@@ -68,13 +68,17 @@ Allow anyone to create tickets<br>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/LKUFfJx.png" height="80%" width="80%"/>
 </p>
 <p>
 Configure Agents (workers)<br>
 Admin Panel -> Agents -> Add New<br>
 -Jane<br>
 -John<br><br>
+
+<p>
+<img src="https://i.imgur.com/oC61cAV.png" height="80%" width="80%"/>
+</p>
 Configure Users (customers)<br>
 Agent Panel -> Users -> Add New<br>
 -Karen<br>
@@ -84,7 +88,7 @@ Agent Panel -> Users -> Add New<br>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/g06R1pa.png" height="80%" width="80%"/>
 </p>
 <p>
 Configure SLA<br>
@@ -97,7 +101,7 @@ Admin Panel -> Manage -> SLA<br>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/Tqw3G23.png" height="80%" width="80%"/>
 </p>
 <p>
 Configure Help Topics<br>
